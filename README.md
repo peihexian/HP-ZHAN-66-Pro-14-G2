@@ -7,7 +7,7 @@ HP ZHAN 66 PRO 14 G2 HACKINTOSH CLOVER CONFIG
 | CPU   | i5 8265u     | 
 | 内存     | 16G (8+8)   | 
 | HD1     | 金士顿 240G ssd   |
-| HD2     | HP原厂 128 M.2   |
+| HD2     | HP出厂自带三星128G M.2   |
 | 显卡    | UHD 620,无独立显卡   |
 | 声卡    | ALC236   |
 | WIFI    | 暂未更换   |
