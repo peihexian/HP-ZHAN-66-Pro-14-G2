@@ -11,11 +11,10 @@ HP ZHAN 66 PRO 14 G2 HACKINTOSH CLOVER CONFIG
 | 声卡    | ALC236   |
 | WIFI    | 暂未更换   |
 
-目前有线网卡，声卡，显卡，HDMI，触摸板，USB正常，调节显示器的快捷键与HP ZHAN 66键盘默认的不对应，是shift+f2降低亮度，shift+f3提高亮度.
+目前有线网卡，声卡，显卡，HDMI，触摸板，TYPE C,USB正常，调节显示器的快捷键与HP ZHAN 66键盘默认的不对应，是shift+f2降低亮度，shift+f3提高亮度.
 
 
 HP ZHAN 66 pro 14 G2 系统BIOS版本： **R76 Ver. 01.03.00 04/29/2019** 版本,显存设置512M。
 
-
-
+测试TYPE C扩展坞型号:LX0801,网卡、鼠标、HDMI正常，TYPE C扩展坞PD口充电苹果系统未识别、扩展声卡未识别。
 
