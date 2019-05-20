@@ -2,7 +2,8 @@
 HP ZHAN 66 PRO 14 G2 HACKINTOSH CLOVER CONFIG
 
 | 设备 | 参数 | 
-| :---:         |     :---:      |          
+| :---:         |     :---:      | 
+| 笔记型号  | HP ZHAN 66 PRO 14 G2集显版  | 
 | CPU   | i5 8265u     | 
 | 内存     | 16G (8+8)   | 
 | HD1     | 金士顿 240G ssd   |
